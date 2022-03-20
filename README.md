@@ -12,4 +12,4 @@
 
 - ## **Retrieve first element of a list**
 
-![](List-Implementation/Screenshots/clojure.jpg)
+![](Screenshots/clojure.jpg)
